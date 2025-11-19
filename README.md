@@ -1,6 +1,6 @@
 # 📊 Adult Industry Deaths Analysis Dashboard
 
-This project is a comprehensive, interactive data visualization tool built using Chart.js, Tailwind CSS, and vanilla JavaScript. It is designed to provide clear insights into the distribution and timeline of recorded deaths, with a unique filtering mechanism for redistributing ambiguous data points.
+This project is an interactive data visualization tool built primarily using an **AI Chatbot (Google Gemini; Pro Version as of November 19, 2025)**. The front-end utilizes Chart.js, Tailwind CSS, and vanilla JavaScript. It is designed to provide clear insights into the distribution and timeline of recorded deaths, with a unique filtering mechanism for redistributing ambiguous data points.
 
 ## ✨ Features
 
